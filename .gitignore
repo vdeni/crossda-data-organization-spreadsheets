@@ -1,0 +1,4 @@
+presentation/*
+!presentation/images
+!presentation/*.tex
+data/datasets/politicke_stranke.csv
