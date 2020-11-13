@@ -30,6 +30,7 @@ d %<>%
 # delete random values
 prob_missing <- .05
 
-makeMissing(d, .prob_missing = prob_missing)
+d %<>% makeMissing(.,
+                   .prob_missing = prob_missing)
 
-write_csv(d, here('data', 'datasets', 'anketa.csv'))
+write_csv(d, here('data', 'anketa.csv'))
