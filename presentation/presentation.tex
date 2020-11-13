@@ -55,8 +55,8 @@
 \setbeamertemplate{itemize item}{\textbullet}
 \setbeamertemplate{itemize subitem}{\(\triangleright\)}
 
-\setbeamertemplate{section in toc}%
-    {\inserttocsectionnumber) \inserttocsection}
+% \setbeamertemplate{section in toc}%
+%     {\inserttocsectionnumber) \inserttocsection}
 
 \setbeamertemplate{section page}{
     \begin{centering}
@@ -64,12 +64,6 @@
         \insertsection\par
     \end{centering}
 }
-
-\setbeamertemplate{section page}%
-    {\Large
-    \begin{center}
-    \thesection) \insertsection
-    \end{center}}
 
 \setbeameroption{hide notes}
 %\setbeameroption{show only notes}
@@ -120,19 +114,11 @@
     \titlepage
 \end{frame}
 
-\begin{frame}
-    \tableofcontents
-\end{frame}
-
 \section{Uvod}
 
 \begin{noheadline}
     \begin{frame}
         \sectionpage
-
-        \begin{center}
-            \includegraphics[scale=.35]{images/walrus-combat-sheet.pdf}
-        \end{center}
     \end{frame}
 \end{noheadline}
 
@@ -153,11 +139,21 @@
     \end{frame}
 \end{noheadline}
 
-\section{Budite konzistentni}
+\section{Kako se obraniti od ružnih podataka?}
 
 \begin{noheadline}
     \begin{frame}
-        \frametitle{Budite konzistentni}
+        \sectionpage
+
+        \begin{center}
+            \includegraphics[scale=.35]{images/walrus-combat-sheet.pdf}
+        \end{center}
+    \end{frame}
+\end{noheadline}
+
+\begin{noheadline}
+    \begin{frame}
+        \frametitle{Kako se obraniti od ružnih podataka?}
 
         \begin{columns}
 
