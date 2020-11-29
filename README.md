@@ -6,10 +6,11 @@ Kod za izlaganje "Rad s tabličnim podacima".
 Prezentacija je rađena koristeći LaTeX-ovu `beamer` klasu. Sadržaj se većinom
 temelji na radu Broman, K. W., & Woo, K. H. (2018). Data organization in
 spreadsheets. *The American Statistician, 72*(1), 2-10.
+https://doi.org/10.1080/00031305.2017.1375989
 
 Dio informacija i inspiracije je preuzet iz CESSDA Training Team (2020).
 *CESSDA Data Management Expert Guide*. Bergen, Norway: CESSDA ERIC. doi:
-`10.5281/zenodo.3820472`.
+`https://doi.org/10.5281/zenodo.3820472`.
 
 ## Struktura direktorija
 
