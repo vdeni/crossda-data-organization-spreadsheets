@@ -10,7 +10,7 @@ https://doi.org/10.1080/00031305.2017.1375989
 
 Dio informacija i inspiracije je preuzet iz CESSDA Training Team (2020).
 *CESSDA Data Management Expert Guide*. Bergen, Norway: CESSDA ERIC. doi:
-`https://doi.org/10.5281/zenodo.3820472`.
+https://doi.org/10.5281/zenodo.3820472.
 
 ## Struktura direktorija
 
