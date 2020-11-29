@@ -14,7 +14,8 @@ Dio informacija i inspiracije je preuzet iz CESSDA Training Team (2020).
 ## Struktura direktorija
 
 Folder `presentation` sadrži `.tex` dokument korišten za stvaranje
-prezentacije. `presentation/images` sadrži slike korištene u prezentaciji.
+prezentacije:
+- `images/` sadrži slike korištene u prezentaciji.
 
 `scripts` sadrži skripte korištene za izradu umjetnog seta podataka:
 - `01-helper-functions.R` su nespecifične funkcije korištene u izradi
@@ -23,6 +24,11 @@ simuliranog seta podataka
 umjetnih imena stranaka za simulirani set podataka
 - `03-simulate-data.R` stvara simulirani set podataka i u njega unosi missing
 vrijednosti
+
+`data` sadrži setove podataka korištene u izradi prezentacije:
+- `anketa.csv` je simulirani set podataka koji imitira nespecifičnu anketu
+- `politicke_stranke.csv` je kopija *Registra političkih stranaka Republike
+Hrvatske* (vidi opis pod *Vanjski resursi*)
 
 ## Vanjski resursi
 
