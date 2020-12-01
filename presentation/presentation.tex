@@ -179,7 +179,8 @@
 
                         \item konzistentna imena datoteka
 
-                        \item konzistentan format datuma
+                        \item konzistentan format datuma (\texttt{YYYY-MM-DD};
+                            npr. \texttt{2020-12-04})
 
                     \end{itemize}
             \end{itemize}
@@ -241,11 +242,12 @@
         \item varijablama dajte smislene nazive
 
             \begin{itemize}
-                \item izbjegavajte dijakritičke znakove
+                \item izbjegavajte posebne znakove (!, ?, @ itd.)
 
                 \item izbjegavajte razmake (zamijenite ih s \_)
 
-                \item izbjegavajte druge znakove (!, ?, @ itd.)
+                \item izbjegavajte dijakritičke znakove (ili pazite na
+                    \textit{encoding})
 
             \end{itemize}
 
@@ -266,12 +268,8 @@
     \begin{itemize}
         \setlength{\itemsep}{2em}
 
-        \item bilježite datume kao \texttt{YYYY-MM-DD} (npr.
-            \texttt{2020-12-04})
-
-        \pause
-
-        \item \textit{nikakve} analize u datotekama sa sirovim podacima
+        \item \textit{nikakve} analize ili promjene u datotekama sa sirovim
+            podacima
 
         \pause
 
@@ -282,7 +280,7 @@
         \item napravite metapodatke
 
         \begin{itemize}
-            \item ime varijalbe
+            \item ime varijable
 
             \item objašnjenje varijable
 

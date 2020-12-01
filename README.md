@@ -14,6 +14,8 @@ https://doi.org/10.5281/zenodo.3820472.
 
 ## Struktura direktorija
 
+`.here` je prazna datoteka koja pomaže `R` paketu `{here}` da odredi root folder.
+
 Folder `presentation` sadrži `.tex` dokument korišten za stvaranje
 prezentacije:
 - `images/` sadrži slike korištene u prezentaciji.
@@ -37,8 +39,6 @@ U skriptama je korišten *Registar političkih stranaka Republike Hrvatske*
 preuzet s
 http://data.gov.hr/dataset/registar-politickih-stranaka-republike-hrvatske
 12. studenog 2020.
-
-`.here` je prazna datoteka koja pomaže `R` paketu `{here}` da odredi root folder.
 
 ## Verzije softvera
 
