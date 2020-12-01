@@ -27,7 +27,7 @@ generateParties <- function(.names, .relative_frequencies, .n_parties,
 
 # create political party names from most common words in Croatia's party
 # registry
-.d_stranke <- read_csv2(here('data', 'politicke_stranke.csv'))
+.d_stranke <- read_csv2(here('data', 'politicke-stranke.csv'))
 
 .d_imena_stranaka <- .d_stranke$NAZIV
 

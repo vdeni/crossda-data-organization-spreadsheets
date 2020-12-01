@@ -1,0 +1,6 @@
+- vrijeme provođenja: (2020-11-01, 2020-12-01);
+- ciljna populacija: državljani Republike Hrvatske s pravom glasa na parlamentarnim izborima u 2020. godini, između 18. i 65. godina starosti;
+- veličina uzorka: 1000;
+- alat za prikupljanje podataka: LimeSurvey (verzija 2.67.1);
+- kontrolna skupina: nije primjenjivo;
+- jedinica analize: pojedinac;

@@ -30,7 +30,10 @@ vrijednosti
 
 `data` sadrži setove podataka korištene u izradi prezentacije:
 - `anketa.csv` je simulirani set podataka koji imitira nespecifičnu anketu
-- `politicke_stranke.csv` je kopija *Registra političkih stranaka Republike
+- `anketa-metadata.txt` primjer izmišljenih metapodataka za simuliranu anketu
+- `anketa-data-dictionary.csv` primjer izmišljenog *data dictionaryja* za
+simuliranu anketu
+- `politicke-stranke.csv` je kopija *Registra političkih stranaka Republike
 Hrvatske* (vidi opis pod *Vanjski resursi*)
 
 ## Vanjski resursi
