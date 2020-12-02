@@ -1,4 +1,4 @@
-naziv,opis,dopustene_vrijednosti
+naziv,opis,vrijednosti
 sex,Spol sudionika/sudionice.,f = ženski; m = muški; NA = sudionik/ca nije odgovorio
 age,Dob sudionika u godinama.,Prirodni brojevi od 18 do 65. NA označava da sudionik nije odgovorio na pitanje.
 years_service,Ukupne godine radnog staža.,Prirodni brojevi od 0 do 45. NA označava da sudionik nije odgovorio na pitanje.
