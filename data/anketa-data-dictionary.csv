@@ -1,7 +1,7 @@
-naziv;opis;dopustene_vrijednosti
-sex;Spol sudionika/sudionice.;"f = ženski; m = muški; NA = sudionik/ca nije odgovorio"
-age;Dob sudionika u godinama.;Prirodni brojevi od 18 do 65. NA označava da sudionik nije odgovorio na pitanje.
-years_service;Ukupne godine radnog staža.;Prirodni brojevi od 0 do 45. NA označava da sudionik nije odgovorio na pitanje.
-n_children;Broj maloljetne djece koja imaju prebivalište u istom kućanstvu kao sudionik.;Prirodni brojevi od 1 do 6. NA označava da sudionik nije odgovorio na pitanje.
-work_satisf;Rezultat na “Skali zadovoljstva imaginarnim poslovima” (vidi anketa-metapodaci.txt).;Realni brojevi u rasponu od 57 (minimalni rezultat na upitniku je 30) do 75 (maksimalni rezultat na upitniku je 85). NA označava da sudionik nije imao dovoljno valjanih odgovora da bi se mogao izračunati ukupan rezultat.
-Elections_2020;Naziv političke stranke za koju je sudionik glasovao na parlamentarnim izborima u Republici Hrvatskoj  2020. godine.;Vidi “Registar imaginarnih političkih stranaka Republike Hrvatske” (verzija 2020-1.2.0). NA označava da sudionik nije odgovorio na pitanje.
+naziv,opis,dopustene_vrijednosti
+sex,Spol sudionika/sudionice.,f = ženski; m = muški; NA = sudionik/ca nije odgovorio
+age,Dob sudionika u godinama.,Prirodni brojevi od 18 do 65. NA označava da sudionik nije odgovorio na pitanje.
+years_service,Ukupne godine radnog staža.,Prirodni brojevi od 0 do 45. NA označava da sudionik nije odgovorio na pitanje.
+n_children,Broj maloljetne djece koja imaju prebivalište u istom kućanstvu kao sudionik.,Prirodni brojevi od 1 do 6. NA označava da sudionik nije odgovorio na pitanje.
+work_satisf,Rezultat na “Skali zadovoljstva imaginarnim poslovima” (vidi anketa-metapodaci.txt).,Realni brojevi u rasponu od 57 (minimalni rezultat na upitniku je 30) do 75 (maksimalni rezultat na upitniku je 85). NA označava da sudionik nije imao dovoljno valjanih odgovora da bi se mogao izračunati ukupan rezultat.
+Elections_2020,Naziv političke stranke za koju je sudionik glasovao na parlamentarnim izborima u Republici Hrvatskoj  2020. godine.,Vidi “Registar imaginarnih političkih stranaka Republike Hrvatske” (verzija 2020-1.2.0). NA označava da sudionik nije odgovorio na pitanje.
