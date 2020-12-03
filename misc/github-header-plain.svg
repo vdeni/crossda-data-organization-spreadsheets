@@ -5,84 +5,11 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="339.98959mm"
    height="170.65627mm"
    viewBox="0 0 339.98955 170.65626"
    version="1.1"
-   id="svg62"
-   sodipodi:docname="github-header.svg"
-   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
-   inkscape:export-filename="/home/denis/Documents/posao/faks/crossda/radionice/crossda-data-organization-spreadsheets/misc/github-header.png"
-   inkscape:export-xdpi="97.636749"
-   inkscape:export-ydpi="97.636749">
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="1"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1036"
-     id="namedview27"
-     showgrid="true"
-     showborder="true"
-     inkscape:showpageshadow="false"
-     inkscape:zoom="0.72097719"
-     inkscape:cx="506.36066"
-     inkscape:cy="436.46708"
-     inkscape:window-x="1963"
-     inkscape:window-y="20"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg62"
-     inkscape:document-rotation="0"
-     showguides="true"
-     inkscape:guide-bbox="true"
-     inkscape:snap-grids="false"
-     inkscape:snap-bbox="true"
-     inkscape:bbox-nodes="false"
-     inkscape:snap-bbox-edge-midpoints="true"
-     inkscape:bbox-paths="false"
-     inkscape:snap-global="true">
-    <inkscape:grid
-       type="xygrid"
-       id="grid29"
-       dotted="true"
-       originx="-81.056113"
-       originy="-52.018092" />
-    <sodipodi:guide
-       position="55.71569,114.61319"
-       orientation="-1,0"
-       id="guide28"
-       inkscape:label=""
-       inkscape:locked="true"
-       inkscape:color="rgb(0,0,255)" />
-    <sodipodi:guide
-       position="284.48157,117.81808"
-       orientation="-1,0"
-       id="guide30"
-       inkscape:label=""
-       inkscape:locked="true"
-       inkscape:color="rgb(0,0,255)" />
-    <sodipodi:guide
-       position="196.05002,80.00366"
-       orientation="0,1"
-       id="guide34"
-       inkscape:label=""
-       inkscape:locked="true"
-       inkscape:color="rgb(0,0,255)" />
-    <sodipodi:guide
-       position="189.73491,62.985396"
-       orientation="0,1"
-       id="guide36"
-       inkscape:label=""
-       inkscape:locked="true"
-       inkscape:color="rgb(0,0,255)" />
-  </sodipodi:namedview>
+   id="svg62">
   <defs
      id="defs56">
     <rect
@@ -112,7 +39,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -122,7 +49,7 @@
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.1111px;line-height:1.25;font-family:'Latin Modern Sans Quotation';-inkscape-font-specification:'Latin Modern Sans Quotation, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect68);fill:#000000;fill-opacity:1;stroke:none;"
      x="40.656933"
      y="0"
-     transform="matrix(3.0295028,0,0,3.0295028,-174.25415,-176.46615)"><tspan
+     transform="matrix(3.0295028,0,0,3.0295028,-174.23495,-176.46615)"><tspan
        x="74.083984"
        y="87.997529"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.1111px;font-family:'3270Medium Nerd Font';-inkscape-font-specification:'3270Medium Nerd Font, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">&gt;</tspan><tspan
@@ -133,10 +60,10 @@
      xml:space="preserve"
      id="text22"
      style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect24);fill:#000000;fill-opacity:1;stroke:none;"
-     transform="matrix(1.3385438,0,0,1.3385438,-50.48467,-28.991928)"
+     transform="matrix(1.3385438,0,0,1.3385438,-26.363474,-28.991928)"
      x="120.30752"
      y="0"><tspan
-       x="78.002971"
+       x="59.933594"
        y="101.92822"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:'3270Medium Nerd Font';-inkscape-font-specification:'3270Medium Nerd Font, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;</tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end">Rad s tabličnim podacima</tspan></tspan></text>
