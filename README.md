@@ -36,6 +36,11 @@ simuliranu anketu
 - `politicke-stranke.csv` je kopija *Registra političkih stranaka Republike
 Hrvatske* (vidi opis pod *Vanjski resursi*)
 
+`misc` sadrži vizuale za GitHub header (Social Preview):
+- `github-header.png`
+- `github-header-plain.svg` je "plain SVG" verzija datoteka, prema Inkscapeu
+- `github-header-inkscape.svg` je "Inkscape SVG" verzija datoteka, prema Inkscapeu
+
 ## Vanjski resursi
 
 U skriptama je korišten *Registar političkih stranaka Republike Hrvatske*
