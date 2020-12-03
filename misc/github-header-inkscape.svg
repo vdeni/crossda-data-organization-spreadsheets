@@ -12,7 +12,7 @@
    viewBox="0 0 339.98955 170.65626"
    version="1.1"
    id="svg62"
-   sodipodi:docname="github-header.svg"
+   sodipodi:docname="github-header-inkscape.svg"
    inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    inkscape:export-filename="/home/denis/Documents/posao/faks/crossda/radionice/crossda-data-organization-spreadsheets/misc/github-header.png"
    inkscape:export-xdpi="97.636749"
@@ -32,9 +32,9 @@
      showgrid="false"
      showborder="true"
      inkscape:showpageshadow="false"
-     inkscape:zoom="0.7788664"
-     inkscape:cx="443.10488"
-     inkscape:cy="226.96947"
+     inkscape:zoom="0.67114557"
+     inkscape:cx="861.49351"
+     inkscape:cy="340.60515"
      inkscape:window-x="1963"
      inkscape:window-y="20"
      inkscape:window-maximized="0"
@@ -82,6 +82,20 @@
        inkscape:label=""
        inkscape:locked="true"
        inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="68.125177,111.47412"
+       orientation="-1,0"
+       id="guide32"
+       inkscape:label=""
+       inkscape:locked="true"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="75.268397,113.66484"
+       orientation="-1,0"
+       id="guide33"
+       inkscape:label=""
+       inkscape:locked="true"
+       inkscape:color="rgb(0,0,255)" />
   </sodipodi:namedview>
   <defs
      id="defs56">
@@ -112,7 +126,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -122,7 +136,7 @@
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.1111px;line-height:1.25;font-family:'Latin Modern Sans Quotation';-inkscape-font-specification:'Latin Modern Sans Quotation, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect68);fill:#000000;fill-opacity:1;stroke:none;"
      x="40.656933"
      y="0"
-     transform="matrix(3.0295028,0,0,3.0295028,-174.23495,-176.46615)"><tspan
+     transform="matrix(3.0295028,0,0,3.0295028,-174.25414,-176.32836)"><tspan
        x="74.083984"
        y="87.997529"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.1111px;font-family:'3270Medium Nerd Font';-inkscape-font-specification:'3270Medium Nerd Font, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">&gt;</tspan><tspan
@@ -133,11 +147,11 @@
      xml:space="preserve"
      id="text22"
      style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect24);fill:#000000;fill-opacity:1;stroke:none;"
-     transform="matrix(1.3385438,0,0,1.3385438,-26.363474,-28.991928)"
+     transform="matrix(1.3110574,0,0,1.3110574,-5.0424018,-26.26772)"
      x="120.30752"
      y="0"><tspan
        x="59.933594"
        y="101.92822"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:'3270Medium Nerd Font';-inkscape-font-specification:'3270Medium Nerd Font, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:'3270Medium Nerd Font';-inkscape-font-specification:'3270Medium Nerd Font, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">&gt;&gt;&gt;&gt;&gt;&gt;&gt;</tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end">Rad s tabličnim podacima</tspan></tspan></text>
 </svg>
